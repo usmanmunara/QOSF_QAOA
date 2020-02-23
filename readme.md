@@ -1,4 +1,4 @@
-# Grove for weighted-maxcut
+# Grove for weighted maxcut
 
 The main code for observations can be found in qaoa.ipynb.
 
