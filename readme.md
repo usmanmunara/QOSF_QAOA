@@ -16,5 +16,12 @@ or
 ```
 conda install --yes --file requirements.txt
 ```
+I am also using a clone and edited version of Grove(to make the maxcut algorithm work for weighted graph) so use the commands below to install that.
+
+```
+cd grove
+pip install -e .
+```
+
 
 Feel free to use the code :)
